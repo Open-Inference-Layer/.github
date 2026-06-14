@@ -4,10 +4,22 @@ Open Inference Layer is a collection of open source products, tools, and protoco
 
 Created by [Ando](https://andoai.xyz), an inference platform, Open Inference Layer is grounded in a simple belief: inference is the cornerstone of AI, and access to inference should be open, user-managed, and aligned with the people and applications that depend on it.
 
-[01 Cover (2).pdf](https://github.com/user-attachments/files/28926139/01.Cover.2.pdf)
+## Materials
 
-[02 Ando Intro (2).pdf](https://github.com/user-attachments/files/28926145/02.Ando.Intro.2.pdf)
+Click any preview to open the original PDF.
 
-[03 Apps Are Becoming Harnesses (2).pdf](https://github.com/user-attachments/files/28926149/03.Apps.Are.Becoming.Harnesses.2.pdf)
+### 01 Cover
 
-[04 Evidence Of The Vision.pdf](https://github.com/user-attachments/files/28926155/04.Evidence.Of.The.Vision.pdf)
+[![01 Cover](assets/pdf-previews/01-cover.png)](https://github.com/user-attachments/files/28926139/01.Cover.2.pdf)
+
+### 02 Ando Intro
+
+[![02 Ando Intro](assets/pdf-previews/02-ando-intro.png)](https://github.com/user-attachments/files/28926145/02.Ando.Intro.2.pdf)
+
+### 03 Apps Are Becoming Harnesses
+
+[![03 Apps Are Becoming Harnesses](assets/pdf-previews/03-apps-are-becoming-harnesses.png)](https://github.com/user-attachments/files/28926149/03.Apps.Are.Becoming.Harnesses.2.pdf)
+
+### 04 Evidence Of The Vision
+
+[![04 Evidence Of The Vision](assets/pdf-previews/04-evidence-of-the-vision.png)](https://github.com/user-attachments/files/28926155/04.Evidence.Of.The.Vision.pdf)
