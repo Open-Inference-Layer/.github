@@ -1,12 +1,5 @@
-## Hi there 👋
+# Open Inference Layer
 
-<!--
+Open Inference Layer is a collection of open source products, tools, and protocols built to support decentralized AI.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Created by [Ando](https://andoai.xyz), an inference platform, Open Inference Layer is grounded in a simple belief: inference is the cornerstone of AI, and access to inference should be open, user-managed, and aligned with the people and applications that depend on it.
